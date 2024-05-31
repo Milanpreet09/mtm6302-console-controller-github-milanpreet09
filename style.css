@@ -1,0 +1,14 @@
+body {
+    font-family: verdana;
+    margin: 0%;
+    font-size: 20px;
+    
+  }
+  .dark-theme{
+    background-color: lightblue;
+    color: black;
+  }
+ .light-theme{
+    background-color: aliceblue;
+    color: black;
+ }
