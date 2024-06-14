@@ -9,4 +9,5 @@ Step 2 : Go to your git bash: and enter command git clone  https://github.com/Mi
 ![Screenshot 2024-05-31 15 26 37](https://github.com/Milanpreet09/mtm6302-console-controller-your-github-milanpreet09/assets/135062030/6201b4fb-4776-4271-9374-076d3e23a076)
 
 Step 3 : Make a new text file in the same folder you cloned your git in and then we will push that text file.
-![Screenshot 2024-05-31 15 26 37](https://github.com/Milanpreet09/mtm6302-console-controller-your-github-milanpreet09/assets/135062030/378f0ea9-74e0-46db-ba6d-292d2b0681a1)
+
+
